@@ -5,6 +5,7 @@ This project presents an Entity Relationship Diagram (ERD) for a Student Report 
 
 ## Use of GitHub
 The system design was based on analysis of a GitHub repository containing database migration files. The tables were identified from the `database/migrations` directory.
+The relationships were identified using foreign keys defined in the migration files.
 
 ## Entities
 The following entities were identified:
@@ -26,7 +27,7 @@ The relationships between entities are:
 - One Subject has many Exams (1:M)
 
 ## ERD Diagram
-![ERD Diagram](./your-image-name.png)
+![ERD Diagram](./YOUR-ACTUAL-IMAGE-NAME.png)
 
 ## Explanation
 The ERD diagram shows how data is organized in the system. Foreign keys are used to connect tables, ensuring data integrity and reducing redundancy.
