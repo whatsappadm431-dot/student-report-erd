@@ -27,7 +27,7 @@ The relationships between entities are:
 - One Subject has many Exams (1:M)
 
 ## ERD Diagram
-![ERD Diagram](./YOUR-ACTUAL-IMAGE-NAME.png)
+![ERD Diagram](./Student%20report%20system%20ERD%20diagram.png)
 
 ## Explanation
 The ERD diagram shows how data is organized in the system. Foreign keys are used to connect tables, ensuring data integrity and reducing redundancy.
